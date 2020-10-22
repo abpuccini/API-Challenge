@@ -15,7 +15,7 @@ As approaching the equator line, what is the weather like? The analysis will foc
 ### Temperature (F) vs. Latitude
 
 <p align="center">
-  <img src="Images/lat_temp.png">
+  <img src="WeatherPy/Images/lat_temp.png">
 </p>
 
 The scatter plot between city latitude and maximum (max) temperature(F) shows that cities located closer to the equator line, the max temperature tends to be higher than cities that are located further from the equator line.
@@ -23,7 +23,7 @@ The scatter plot between city latitude and maximum (max) temperature(F) shows th
 ### Humidity (%) vs. Latitude
 
 <p align="center">
-  <img src="Images/lat_humd.png">
+  <img src="WeatherPy/Images/lat_humd.png">
 </p>
 
 The scatter plot between city latitude and humidity(%) shows the irrelevant of the city's location and percentage of humidity.
@@ -31,7 +31,7 @@ The scatter plot between city latitude and humidity(%) shows the irrelevant of t
 ### Cloudiness (%) vs. Latitude
 
 <p align="center">
-  <img src="Images/lat_cloud.png">
+  <img src="WeatherPy/Images/lat_cloud.png">
 </p>
 
 The scatter plot between city latitude and cloudiness(%) shows that there is no significant relation between city location and the density of clouds.
@@ -39,7 +39,7 @@ The scatter plot between city latitude and cloudiness(%) shows that there is no 
 ### Wind Speed (mph) vs. Latitude
 
 <p align="center">
-  <img src="Images/lat_wind.png">
+  <img src="WeatherPy/Images/lat_wind.png">
 </p>
 
 The scatter plot between city latitude and wind speed(mph) shows that where cities are located is not related to the speed of wind. There are a few cities located between latitude 20 to 80 degrees where the wind speed is higer than others. However, the samples are small to make a conclusion that there is a relation between latitude and wind speed.
@@ -51,8 +51,8 @@ The scatter plot between city latitude and wind speed(mph) shows that where citi
 ### Northern and Southern Hemisphere - Temperature (F) vs. Latitude
 
 <p float="center">
-  <img src="Images/north_temp.png"/>
-  <img src="Images/south_temp.png"/> 
+  <img src="WeatherPy/Images/north_temp.png"/>
+  <img src="WeatherPy/Images/south_temp.png"/> 
 </p>
 
 As the figures presented, linear regression lines and correlation values between latitude (north and south) and maximum temperature which illustrate that city latitude has an effect on temperature. In the other word, city latitude is correlated to temperature. The linear regression line for the northern hemisphere is an inverse correlation which means the lower latitude (closer the equator line) in the northern area, the higher the temperature. On the other hand, the linear regression line for the southern hemisphere is positive correlation which means the higher the latitude (closer the equator line) in the southern area, the higher the temperature. Moreover, r-values represent the predictable temperature data based on latitude.
@@ -64,8 +64,8 @@ The relation between temperature and other meteorological data; for example, hum
 ### Northern and Southern Hemisphere - Humidity (%) vs. Latitude
 
 <p float="center">
-  <img src="Images/north_humid.png"/>
-  <img src="Images/south_humid.png"/> 
+  <img src="WeatherPy/Images/north_humid.png"/>
+  <img src="WeatherPy/Images/south_humid.png"/> 
 </p>
 
 As the figures presented, linear regression lines and correlation values between latitude (north and south) and percentage of humidity which illustrate the weak correlation between city location and humidity in that area. Also, the low r-squared values in both graphs indicate that this model might not be efficient in order to predict the humidity based on latitude.
@@ -77,8 +77,8 @@ Humidity is the concentration of water vapor present in the air ("Humidity", Wik
 ### Northern and Southern Hemisphere - Cloudiness (%) vs. Latitude
 
 <p float="center">
-  <img src="Images/north_cloud.png"/>
-  <img src="Images/south_cloud.png"/> 
+  <img src="WeatherPy/Images/north_cloud.png"/>
+  <img src="WeatherPy/Images/south_cloud.png"/> 
 </p>
 
 As the figures presented, correlation values between latitude (north and south) and percentage of cloudiness which illustrate the weak correlation between city location and cloudiness in that area. Linear regression lines and the low r-squared values in both graphs indicate that latitude might not be a significant factor that causes cloudiness.
@@ -90,8 +90,8 @@ Other meteorological data,for example; temperature, might be considered to have 
 ### Northern and Southern Hemisphere - Wind Speed (mph) vs. Latitude
 
 <p float="center">
-  <img src="Images/north_wind.png"/>
-  <img src="Images/south_wind.png"/> 
+  <img src="WeatherPy/Images/north_wind.png"/>
+  <img src="WeatherPy/Images/south_wind.png"/> 
 </p>
 
 As the figures presented, correlation values between latitude (north and south) and wind speed (mph) which illustrate the weak correlation between city location and wind speed in that area. Also, the linear regression lines and low r-squared values in both graphs support that latitude data might not be a good indicator to predict wind speed.
