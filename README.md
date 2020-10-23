@@ -50,10 +50,7 @@ The scatter plot between city latitude and wind speed(mph) shows that where citi
 
 ### Northern and Southern Hemisphere - Temperature (F) vs. Latitude
 
-<p float="center">
-  <img src="WeatherPy/Images/north_temp.png"/>
-  <img src="WeatherPy/Images/south_temp.png"/> 
-</p>
+<img src="WeatherPy/Images/north_temp.png" width="425"/> <img src="WeatherPy/Images/south_temp.png" width="425"/> 
 
 As the figures presented, linear regression lines and correlation values between latitude (north and south) and maximum temperature which illustrate that city latitude has an effect on temperature. In the other word, city latitude is correlated to temperature. The linear regression line for the northern hemisphere is an inverse correlation which means the lower latitude (closer the equator line) in the northern area, the higher the temperature. On the other hand, the linear regression line for the southern hemisphere is positive correlation which means the higher the latitude (closer the equator line) in the southern area, the higher the temperature. Moreover, r-values represent the predictable temperature data based on latitude.
 
