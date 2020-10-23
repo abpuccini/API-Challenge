@@ -2,7 +2,11 @@
 
 Applying Python requests, APIs, and JSON into data analysis.
 
+[WeatherPy](readme.md##\WeatherPy) | [VacationPy](readme.md##\VacationPy)
+
 ## WeatherPy
+
+
 
 ### Background
 
@@ -20,6 +24,7 @@ As approaching the equator line, what is the weather like? The analysis will foc
 
 The scatter plot between city latitude and maximum (max) temperature(F) shows that cities located closer to the equator line, the max temperature tends to be higher than cities that are located further from the equator line.
 
+---
 ### Humidity (%) vs. Latitude
 
 <p align="center">
@@ -28,6 +33,7 @@ The scatter plot between city latitude and maximum (max) temperature(F) shows th
 
 The scatter plot between city latitude and humidity(%) shows the irrelevant of the city's location and percentage of humidity.
 
+---
 ### Cloudiness (%) vs. Latitude
 
 <p align="center">
@@ -36,6 +42,7 @@ The scatter plot between city latitude and humidity(%) shows the irrelevant of t
 
 The scatter plot between city latitude and cloudiness(%) shows that there is no significant relation between city location and the density of clouds.
 
+---
 ### Wind Speed (mph) vs. Latitude
 
 <p align="center">
@@ -44,6 +51,7 @@ The scatter plot between city latitude and cloudiness(%) shows that there is no 
 
 The scatter plot between city latitude and wind speed(mph) shows that where cities are located is not related to the speed of wind. There are a few cities located between latitude 20 to 80 degrees where the wind speed is higer than others. However, the samples are small to make a conclusion that there is a relation between latitude and wind speed.
 
+---
 ### Part II
 
 *Comparison of Northern and Southern Hemisphere*
@@ -63,6 +71,7 @@ As the figures presented, linear regression lines and correlation values between
 
 The relation between temperature and other meteorological data; for example, humidity, wind speed or cloudiness, to discover other factors that affect the degree of temperature.
 
+---
 ### Northern and Southern Hemisphere - Humidity (%) vs. Latitude
 
 <table>
@@ -78,6 +87,7 @@ As the figures presented, linear regression lines and correlation values between
 
 Humidity is the concentration of water vapor present in the air ("Humidity", Wikipedia). Therefore, the temperature might be one of the factors that causes the density of humidity. The correlation between humidity and temperature would be a further analysis.
 
+---
 ### Northern and Southern Hemisphere - Cloudiness (%) vs. Latitude
 
 <table>
@@ -93,6 +103,7 @@ As the figures presented, correlation values between latitude (north and south) 
 
 Other meteorological data,for example; temperature, might be considered to have more accurate analysis as an other variable to predict the cloudiness.
 
+---
 ### Northern and Southern Hemisphere - Wind Speed (mph) vs. Latitude
 
 <table>
@@ -108,5 +119,5 @@ As the figures presented, correlation values between latitude (north and south) 
 
 Wind is air in motion. It is produced by the uneven heating of the earth's surface by the sun ("Wind", Weather Wiz Kids). That implies that temperature might be a significant factor causing wind. The further analysis would be finding statistical data between temperature and wind speed and visualize it into a plot.
 
-
-
+---
+## VacationPy
