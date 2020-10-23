@@ -52,10 +52,6 @@ The scatter plot between city latitude and wind speed(mph) shows that where citi
 
 <table>
   <tr>
-    <td></td>
-     <td></td>
-  </tr>
-  <tr>
     <td><img src="WeatherPy/Images/north_temp.png" ></td>
     <td><img src="WeatherPy/Images/south_temp.png" ></td>
   </tr>
