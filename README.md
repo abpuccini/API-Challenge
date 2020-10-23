@@ -2,7 +2,7 @@
 
 Applying Python requests, APIs, and JSON into data analysis.
 
-[WeatherPy](readme.md#WeatherPy) | [VacationPy](readme.md#VacationPy)
+[WeatherPy](#weatherpy) | [VacationPy](#vacationpy)
 
 ## WeatherPy
 
