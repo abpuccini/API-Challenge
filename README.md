@@ -67,8 +67,8 @@ The relation between temperature and other meteorological data; for example, hum
 
 <table>
   <tr>
-  <img src="WeatherPy/Images/north_humid.png"/>
-  <img src="WeatherPy/Images/south_humid.png"/> 
+    <td><img src="WeatherPy/Images/north_humid.png"/>
+    <td><img src="WeatherPy/Images/south_humid.png"/> 
 </tr>
  </table>
 
@@ -82,8 +82,8 @@ Humidity is the concentration of water vapor present in the air ("Humidity", Wik
 
 <table>
   <tr>
-  <img src="WeatherPy/Images/north_cloud.png"/>
-  <img src="WeatherPy/Images/south_cloud.png"/> 
+    <td><img src="WeatherPy/Images/north_cloud.png"/>
+    <td><img src="WeatherPy/Images/south_cloud.png"/> 
 </tr>
  </table>
 
@@ -97,8 +97,8 @@ Other meteorological data,for example; temperature, might be considered to have 
 
 <table>
   <tr>
-  <img src="WeatherPy/Images/north_wind.png"/>
-  <img src="WeatherPy/Images/south_wind.png"/> 
+    <td><img src="WeatherPy/Images/north_wind.png"/>
+    <td><img src="WeatherPy/Images/south_wind.png"/> 
 </tr>
  </table>
 
