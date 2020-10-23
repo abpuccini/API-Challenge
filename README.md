@@ -6,7 +6,7 @@ Applying Python requests, APIs, and JSON into data analysis.
 
 ## WeatherPy
 
-
+[Analysis process](WeatherPy/WeatherPy.ipynb) (applied by Jupyter Notebook)
 
 ### Background
 
