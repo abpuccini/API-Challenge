@@ -6,7 +6,7 @@ Applying Python requests, APIs, and JSON into data analysis.
 
 ## WeatherPy
 
-[Analysis process](https://nbviewer.jupyter.org/github/abpuccini/python-api-challenge/blob/main/WeatherPy/WeatherPy.ipynb) (application used: Jupyter Notebook)
+[Analysis process](https://nbviewer.jupyter.org/github/abpuccini/python-api-challenge/blob/main/WeatherPy/WeatherPy.ipynb) (Jupyter Notebook)
 
 ### Background
 
@@ -22,7 +22,7 @@ As approaching the equator line, what is the weather like? The analysis will foc
   <img src="WeatherPy/Images/lat_temp.png">
 </p>
 
-The scatter plot between city latitude and maximum (max) temperature(F) shows that cities located closer to the equator line, the max temperature tends to be higher than cities that are located further from the equator line.
+The scatter plot between city latitude and maximum (max) temperature(F) shows that cities located closer to the equator line, the max temperature tends to be higher than cities that are located further from the equator line. The reason is those cities are closer to the sun than the others. (Seasons and Why the Equator is Warmer than the Poles, *Pedagogy in Action*) 
 
 ---
 ### Humidity (%) vs. Latitude
@@ -31,7 +31,7 @@ The scatter plot between city latitude and maximum (max) temperature(F) shows th
   <img src="WeatherPy/Images/lat_humd.png">
 </p>
 
-The scatter plot between city latitude and humidity(%) shows the irrelevant of the city's location and percentage of humidity.
+The scatter plot between city latitude and humidity(%) shows the irrelevant relation of the city's location and percentage of humidity. Humidity in the air 
 
 ---
 ### Cloudiness (%) vs. Latitude
@@ -85,7 +85,7 @@ As the figures presented, linear regression lines and correlation values between
 
 **Further Analysis**
 
-Humidity is the concentration of water vapor present in the air ("Humidity", Wikipedia). Therefore, the temperature might be one of the factors that causes the density of humidity. The correlation between humidity and temperature would be a further analysis.
+Humidity is the concentration of water vapor present in the air ("Humidity", *Wikipedia*). Therefore, the temperature might be one of the factors that causes the density of humidity. The correlation between humidity and temperature would be a further analysis.
 
 ---
 ### Northern and Southern Hemisphere - Cloudiness (%) vs. Latitude
@@ -117,7 +117,24 @@ As the figures presented, correlation values between latitude (north and south) 
 
 **Further Analysis**
 
-Wind is air in motion. It is produced by the uneven heating of the earth's surface by the sun ("Wind", Weather Wiz Kids). That implies that temperature might be a significant factor causing wind. The further analysis would be finding statistical data between temperature and wind speed and visualize it into a plot.
+Wind is air in motion. It is produced by the uneven heating of the earth's surface by the sun ("Wind", *Weather Wiz Kids*). That implies that temperature might be a significant factor causing wind. The further analysis would be finding statistical data between temperature and wind speed and visualize it into a plot.
 
 ---
 ## VacationPy
+
+### Humidity City Map
+
+<p align="center">
+  <img src="VacationPy/Images/humidity_map.png">
+</p>
+
+### Vacation Map
+
+There are several places that are interesting to visit on the vacation period. Here is the map shown the cities with maximum temperature between 70 and 80 farenhite, wind speed less than 10 mph, zero percent cloudiness and humidity less than 70%.
+
+<p align="center">
+  <img src="VacationPy/Images/hotel_map.png">
+</p>
+
+---
+© Atcharaporn B Puccini
