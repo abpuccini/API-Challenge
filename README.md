@@ -130,7 +130,7 @@ Wind is air in motion. It is produced by the uneven heating of the earth's surfa
 
 ### Vacation Map
 
-There are several places that are interesting to visit on the vacation period. Here is the map shown the cities with maximum temperature between 70 and 80 farenhite, wind speed less than 10 mph, zero percent cloudiness and humidity less than 70%.
+There are several places that are interesting to visit on the vacation period. Here is the map shown the cities with maximum temperature between 70 and 80 degrees fahrenheit, wind speed less than 10 mph, zero percent cloudiness and humidity less than 70%.
 
 <p align="center">
   <img src="VacationPy/Images/hotel_map.png">
