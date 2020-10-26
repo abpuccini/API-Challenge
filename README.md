@@ -2,6 +2,8 @@
 
 Applying Python requests, APIs, and JSON into data analysis.
 
+**Limitation:** Cities in this study are examples of cities around the world at the day of the calculation which is October 22, 2020. Therefore, it might not be an accurate model to forcast the weather for all year long. 
+
 [WeatherPy](#weatherpy) | [VacationPy](#vacationpy)
 
 ## WeatherPy
@@ -122,7 +124,11 @@ Wind is air in motion. It is produced by the uneven heating of the earth's surfa
 ---
 ## VacationPy
 
+[Analysis Method](https://nbviewer.jupyter.org/github/abpuccini/python-api-challenge/blob/main/VacationPy/VacationPy.ipynb) (Jupyter Notebook)
+
 ### Humidity City Map
+
+The map presented below shows the humidity in each city. The color green, yellow and red represent from lowest to highest humidity repectively.
 
 <p align="center">
   <img src="VacationPy/Images/humidity_map.png">
