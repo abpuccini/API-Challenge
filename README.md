@@ -24,7 +24,7 @@ As approaching the equator line, what is the weather like? The analysis will foc
   <img src="WeatherPy/Images/lat_temp.png">
 </p>
 
-The scatter plot between city latitude and maximum (max) temperature(F) shows that cities located closer to the equator line, the max temperature tends to be higher than cities that are located further from the equator line. The reason is those cities are closer to the sun than the others. (Seasons and Why the Equator is Warmer than the Poles, *Pedagogy in Action*) 
+The scatter plot between city latitude and maximum (max) temperature(F) shows that cities located closer to the equator line, the max temperature tends to be higher than cities that are located further from the equator line. The reason is those cities are closer to the sun than the others. (Blaettler, *Why Is it Hot at the Equator But Cold at the Poles?* 2019)
 
 ---
 ### Humidity (%) vs. Latitude
@@ -87,7 +87,7 @@ As the figures presented, linear regression lines and correlation values between
 
 **Further Analysis**
 
-Humidity is the concentration of water vapor present in the air ("Humidity", *Wikipedia*). Therefore, the temperature might be one of the factors that causes the density of humidity. The correlation between humidity and temperature would be a further analysis.
+Humidity is the concentration of water vapor present in the air (Wikipedia, *Humidity* 2020). Therefore, the temperature might be one of the factors that causes the density of humidity. The correlation between humidity and temperature would be a further analysis.
 
 ---
 ### Northern and Southern Hemisphere - Cloudiness (%) vs. Latitude
@@ -119,7 +119,7 @@ As the figures presented, correlation values between latitude (north and south) 
 
 **Further Analysis**
 
-Wind is air in motion. It is produced by the uneven heating of the earth's surface by the sun ("Wind", *Weather Wiz Kids*). That implies that temperature might be a significant factor causing wind. The further analysis would be finding statistical data between temperature and wind speed and visualize it into a plot.
+Wind is air in motion. It is produced by the uneven heating of the earth's surface by the sun (Wicker, *Wind* 2015). That implies that temperature might be a significant factor causing wind. The further analysis would be finding statistical data between temperature and wind speed and visualize it into a plot.
 
 ---
 ## VacationPy
@@ -141,6 +141,15 @@ There are several places that are interesting to visit on the vacation period. H
 <p align="center">
   <img src="VacationPy/Images/hotel_map.png">
 </p>
+
+---
+## References
+
+Blaettler, K. G. (2019, November 22). *Why Is it Hot at the Equator But Cold at the Poles?* https://sciencing.com/hot-equator-but-cold-poles-6908312.html.
+
+Wicker, C. (2015). *Wind*. Weather Wiz Kids weather information for kids. https://www.weatherwizkids.com/weather-wind.htm. 
+
+Wikimedia Foundation. (2020, October 2). *Humidity*. Wikipedia. https://en.wikipedia.org/wiki/Humidity. 
 
 ---
 © Atcharaporn B Puccini
