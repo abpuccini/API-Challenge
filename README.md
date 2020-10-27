@@ -8,7 +8,7 @@ Applying Python requests, APIs, and JSON into data analysis.
 
 ## WeatherPy
 
-[Analysis process](https://nbviewer.jupyter.org/github/abpuccini/python-api-challenge/blob/main/WeatherPy/WeatherPy.ipynb) (Jupyter Notebook)
+[Data Analysis Process](https://nbviewer.jupyter.org/github/abpuccini/python-api-challenge/blob/main/WeatherPy/WeatherPy.ipynb) (Jupyter Notebook)
 
 ### Background
 
@@ -124,7 +124,7 @@ Wind is air in motion. It is produced by the uneven heating of the earth's surfa
 ---
 ## VacationPy
 
-[Analysis Method](https://nbviewer.jupyter.org/github/abpuccini/python-api-challenge/blob/main/VacationPy/VacationPy.ipynb) (Jupyter Notebook)
+[Data Analysis Process](https://nbviewer.jupyter.org/github/abpuccini/python-api-challenge/blob/main/VacationPy/VacationPy.ipynb) (Jupyter Notebook)
 
 ### Humidity City Map
 
